@@ -1,0 +1,12 @@
+name: olympic-rowing-analysis
+title: olympic-rowing-analysis
+username:
+account: hs-burke
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1560514
+bundleId: 2667070
+url: https://hs-burke.shinyapps.io/olympic-rowing-analysis/
+when: 1576306908.77562
+asMultiple: FALSE
+asStatic: FALSE
